@@ -8,9 +8,9 @@ _Human Resources_: High attrition at JobLevels 1 and 3 indicates possible intern
 _TotalWorkingYears_: 5-10 years' experience is a crucial period for Company A's employee retention.
 _Higher Job Levels_: Emphasis on retention strategies at JobLevels 4 and 5 due to their importance and lower attrition rates.
 
-Key Factors: Overtime, Monthly Income, and Total Working Years are vital to address attrition in Company A.
+**Key Factors**: Overtime, Monthly Income, and Total Working Years are vital to address attrition in Company A.
 Future Work:
 
-Model Refinement: Optimize for better predictive accuracy.
+**Model Refinement:** Optimize for better predictive accuracy.
 Incorporate More Data: Factor in surveys, evaluations, and exit feedback.
-Targeted Analysis: Deep-dive into each department for tailored strategies.
+**Targeted Analysis:** Deep-dive into each department for tailored strategies.
